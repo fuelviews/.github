@@ -24,7 +24,7 @@ Beyond Provessa, we design and build custom sites for businesses that have outgr
 
 ## Laravel packages
 
-Every Fuelviews site runs on these. MIT licensed, PHP 8.3+, Laravel 10–12.
+Every Fuelviews site runs on these. MIT licensed, PHP 8.x, Laravel 10–12.
 
 | Package | Description | Downloads |
 |---|---|---|
