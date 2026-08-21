@@ -41,7 +41,6 @@ Every Fuelviews site runs on these. MIT licensed, PHP 8.x, Laravel 10–12.
 | [laravel-sabhero-articles](https://github.com/fuelviews/laravel-sabhero-articles) | Filament-managed articles / blog | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-sabhero-articles?label=&color=2ea44f) |
 | [laravel-sabhero-estimator](https://github.com/fuelviews/laravel-sabhero-estimator) | Instant estimate / quote widget | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-sabhero-estimator?label=&color=2ea44f) |
 | [laravel-redirect-if-not-found](https://github.com/fuelviews/laravel-redirect-if-not-found) | Redirect 404s to the closest matching route | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-redirect-if-not-found?label=&color=2ea44f) |
-| [laravel-github-monolog](https://github.com/fuelviews/laravel-github-monolog) | Log Laravel exceptions as GitHub issues | ![](https://img.shields.io/packagist/dt/fuelviews/laravel-github-monolog?label=&color=2ea44f) |
 
 ```bash
 composer require fuelviews/laravel-robots-txt
